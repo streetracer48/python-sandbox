@@ -41,7 +41,7 @@ print (a)
 
 x= str(y)
 print(x)
-y= int(y)
+y= init(y)
 
 #Check Type 
 print (type(is_cool))
