@@ -47,6 +47,10 @@ print(s.replace('world', 'everyone'))
 
 print(s.startswith('hello'))
 
+#end width 
+
+print(s.endwith('d'))
+
 
 #find position
 print(s.find('r'))
