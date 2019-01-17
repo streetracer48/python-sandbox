@@ -62,3 +62,6 @@ print(s.split())
 #is all alphanumeric
 
 print (is.isalnum())
+
+#is all numeric
+print(s.isnumeric())
