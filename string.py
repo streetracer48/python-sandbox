@@ -43,11 +43,17 @@ print(len(s))
 #replace
 print(s.replace('world', 'everyone'))
 
+#Starts with
+
+print(s.startswith('hello'))
+
+
 #find position
 print(s.find('r'))
 
+
 #split into a list
-print(s.)
+print(s.split())
 
 #is all alphanumeric
 
