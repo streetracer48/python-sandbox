@@ -4,7 +4,13 @@
 
 # Create function
 def  sayHello(name):
+
+    """
+ Print hello and then name
+    """
    print('Hello' + name)
 
 sayHello('sanjose')
+
+#R
 
