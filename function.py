@@ -3,8 +3,8 @@
 
 
 # Create function
-def  sayHello(name);
-print('Hello' + name)
+def  sayHello(name):
+   print('Hello' + name)
 
 sayHello('sanjose')
 
