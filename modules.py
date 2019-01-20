@@ -14,6 +14,9 @@ from time import time
 
 import camelcase
 
+#Custom module
+
+import validator
 
 # today = datetime.date.today()
 # timestamps = time()
@@ -22,6 +25,13 @@ import camelcase
 
 # print(timestamps)
 
-c = camelcase.CamelCase()
-txt = "hello world"
-print(c.hump(txt))
+# c = camelcase.CamelCase()
+# txt = "hello world"
+# print(c.hump(txt))
+
+emaill = 'test@test.om'
+
+if validator.validate_email(emaill):
+    print('Email is valid')
+else:
+    print('not an email')
