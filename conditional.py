@@ -98,8 +98,10 @@ numbers = [3,4,5,6,7,10]
 #     print (f'conditionaly false {x} is not equal to {y}')
 
 
-if x is not y :
-    print (f'Conditionaly true beacuse {x} is not equal to {y}')
+# if x is not y :
+#     print (f'Conditionaly true beacuse {x} is not equal to {y}')
 
-else:
-    print (f'conditionaly false beacuse {x} is equl to {y}')
+# else:
+#     print (f'conditionaly false beacuse {x} is equl to {y}')
+
+
