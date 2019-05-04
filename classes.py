@@ -36,8 +36,8 @@ class Customer(User):
 
 # Init user object
 
-miraz = User('Mirajul karim', 'miraz@gmail.co', 37)
-karim = User('miraz karim', 'karim@gmail.com',23)
+jhon = User('Jhon doe', 'jhon@gmail.co', 37)
+doe = User('doe', 'doe@gmail.com',23)
 
  #Init Customer
 bablu = Customer('the bablu', 'bablu@gmail.com', 45)
@@ -46,13 +46,12 @@ bablu.set_balance(500)
 # print(bablu.balance)
 
 #Edit property
-miraz.age= 40
+jhon.age= 40
 
 # call method
 
-# print (karim.greeting())
+# print (doe.greeting())
 
-# print(miraz.age)
-# print(karim.name)
+
 
 print(bablu.greeting())
