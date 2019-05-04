@@ -15,7 +15,7 @@ person = {
 
 #Using a constructor
 
-# personConst = dict(first_name='Miraz', last_name='Karim', age=34)
+# personConst = dict(first_name='khon', last_name='doe', age=34)
 
 # print (personConst)
 
